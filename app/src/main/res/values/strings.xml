@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidSpinnerExample</string>
+    <string-array name="options">
+        <item>Select Item...</item>
+        <item>Get Highest Rated Titles</item>
+        <item>Get Lowest Rated Titles</item>
+        <item>Get Record Count</item>
+        <item>Retrieve Titles with Android</item>
+    </string-array>
+</resources>
